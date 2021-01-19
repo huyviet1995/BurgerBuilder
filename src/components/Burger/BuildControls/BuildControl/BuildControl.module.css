@@ -36,11 +36,13 @@
 }
 
 .BuildControl .Less {  
+    height: fit-content;
     background-color: #D39952;
     color: white;
 }
 
 .BuildControl .More {
+    height: fit-content;
     background-color: #8F5E1E;
     color: white;
 }

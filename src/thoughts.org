@@ -1,0 +1,7 @@
+CLOCK: [2020-11-30 Mon 23:3]
+** TODO I would like to send the Postman request to this Firebase in order to make sure that this should work correctly
+
+CLOCK: [2020-12-2 Wed 22:51]
+** DONE I might also want to style the menu under the footer just a little bit
+
+** TODO It seems to me like everytime I decide to reload the page, the backdrop just cover everything with a grey color. I think that I will need to fix this

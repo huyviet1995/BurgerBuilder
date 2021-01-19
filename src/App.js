@@ -4,14 +4,16 @@ import Layout from './hoc/Layout/Layout';
 import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
 import './App.css';
 
-function App() {
-  return (
-    <div>
-      <Layout>
-        <BurgerBuilder></BurgerBuilder>
-      </Layout>
-    </div>
-  );
+class App extends React.Component {
+  render () {
+    return (
+      <div>
+        <Layout>
+          <BurgerBuilder></BurgerBuilder>
+        </Layout>
+      </div>
+    );
+  }
 }
 
 export default App;
