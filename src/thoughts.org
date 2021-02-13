@@ -5,3 +5,11 @@ CLOCK: [2020-12-2 Wed 22:51]
 ** DONE I might also want to style the menu under the footer just a little bit
 
 ** TODO It seems to me like everytime I decide to reload the page, the backdrop just cover everything with a grey color. I think that I will need to fix this
+
+CLOCK: [2021-2-13 Sat 21:38]
+* DONE Okay first of all, I might want to see the fact that all of my forms should be lined up vertically! (20m)
+CLOCK: [2021-2-13 Sat 21:52]
+* DONE [BUGS] Currently, I can see that the Cancel and Continue buttons are being overshadowed by the burger itself, let's fix this (10m)
+CLOCK: [2021-2-13 Sat 23:15]
+* DONE Okay, due to some reasons, due to some reasons, there is only one Order showing while there should be like 2 of them. I will need to check this one out
+* TODO Also, for some reasons, the first Order should have some space between it and to the top man 
